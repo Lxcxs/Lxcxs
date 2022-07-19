@@ -7,6 +7,7 @@ object Lucas {
  
  val habilidades = "Css, Sass, Styled Components"
  val linguagens = listOf("JavaScript", "React") 
+ 
 }
 ```
 
