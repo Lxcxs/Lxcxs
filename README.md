@@ -6,7 +6,7 @@ object Lucas {
  val conhecimento = "DESENVOLVIMENTO WEB";
  
  val habilidades = "Html", "Css", "Sass", "Styled Components", "Git";
- val linguagens = listOf("JavaScript", "React");
+ val linguagens = listOf("JavaScript", "React", "Typescript");
 }
 ```
 
