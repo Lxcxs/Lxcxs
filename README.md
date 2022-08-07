@@ -12,9 +12,6 @@ object Lucas {
  
 }
 ```
-##
-
-#### Redes e Portfolio
 
 <div align="center"> 
 
